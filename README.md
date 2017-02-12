@@ -1,4 +1,4 @@
-# hello-world
-Trying to program! 
+# Welcome
+Attempting to program! 
 
-Math-extraordinaire plays around with programming. I think fluffy bumblebees and fluffy bunnies are cute.
+Blah. Fluffy bumblebees and fluffy bunnies are cute.
